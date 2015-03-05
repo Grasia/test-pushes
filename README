@@ -1,3 +1,11 @@
+¿Tienes curiosidad por saber qué es esto?
+
+En P2Pvalue usamos swartz como repo principal, desde el que hacemos pushes a github/p2pvalue y github/grasia.
+
+Si alguien hace un pull request en github y lo aceptamos por la web, esos cambios no llegan a swartz. Esto es una prueba para entender el problema.
+
+Las conclusiones son que hace falta hacer pull de github en el repo local e incorporar esos cambios para luego hacer push a swartz. De esta manera las contribuciones hechas en github se añaden al repo en swartz
+
 I am testing commit clash from several sources
 
 ...g.g
